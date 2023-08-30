@@ -1,2 +1,2 @@
-conflict 2
+main conflict 2
 2
